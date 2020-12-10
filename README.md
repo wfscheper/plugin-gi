@@ -1,5 +1,4 @@
-gitignore (gi) plugin
-=====================
+# gitignore (gi) plugin
 
 This plugin provides a simple command line interface to gitignore.io - a
 website that generates .gitignore files based on your project requirements.
